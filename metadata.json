@@ -1,0 +1,7 @@
+{
+  "name": "PickNGo",
+  "description": "Real-time employee transportation tracking with AI-powered route optimization and predictive ETAs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
